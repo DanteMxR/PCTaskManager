@@ -1,0 +1,67 @@
+﻿<Page x:Class="TaskManagerPC.Pages.NotesPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TaskManagerPC.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="560"
+      Title="NotesPage">
+
+    <Border CornerRadius="5" Background="{DynamicResource SecundaryBackgroundColor}">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="381"/>
+                <ColumnDefinition Width="135"/>
+                <ColumnDefinition Width="9"/>
+                <ColumnDefinition Width="35"/>
+            </Grid.ColumnDefinitions>
+            <ListView BorderBrush="Orange" x:Name="ProcessesListView" Height="380" Width="500" Margin="34,13,26,57" Grid.ColumnSpan="4" Foreground="#FF0C0C0C"  FontSize="11" FontWeight="Normal" FontFamily="Segoe UI">
+                <ListView.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform AngleY="-0.152"/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="-0.664"/>
+                    </TransformGroup>
+                </ListView.RenderTransform>
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn  Header="Имя" Width="200">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding ProcessName}" TextAlignment="Center" FontSize="20" Width="Auto" FontFamily="Segoe UI" />
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn Header="ID" Width="100">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding Id}" TextAlignment="Center" FontSize="20" Width="Auto"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn Header="Потоки" Width="100">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding Threads.Count}" TextAlignment="Center" FontSize="20" Width="Auto"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn Header="Descriptors" Width="100">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding HandleCount}" TextAlignment="Center" FontSize="20" Width="Auto"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <TextBox FontFamily="Segoe UI" BorderBrush="Orange" x:Name="FindTextBox" Height="24" Width="312" Margin="34,402,35,24"/>
+            <Button Background="Transparent"  BorderThickness="0" x:Name="ButtonKill" Click="ButtonKill_OnClick" Content="Снять задачу"  Width="90" Height="25"  Grid.ColumnSpan="2" Margin="352,401,74,24" FontFamily="Segoe UI"/>
+            <Button Background="Transparent"   BorderThickness="0" x:Name="ButtonOpen" Click="ButtonOpen_OnClick" Content="Открыть..." Width="85" Height="25" Grid.Column="1" Margin="66,401,28,24" Grid.ColumnSpan="3" FontFamily="Segoe UI"/>
+
+        </Grid>
+    </Border>
+</Page>

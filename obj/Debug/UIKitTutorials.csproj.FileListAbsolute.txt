@@ -1,0 +1,157 @@
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\bin\Debug\UIKitTutorials.exe.config
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\bin\Debug\UIKitTutorials.exe
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\bin\Debug\UIKitTutorials.pdb
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\UIKitTutorials.csprojAssemblyReference.cache
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\MainWindow.g.cs
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\App.g.cs
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\UIKitTutorials_MarkupCompile.cache
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\UIKitTutorials_MarkupCompile.lref
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\MainWindow.baml
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\UIKitTutorials.g.resources
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\UIKitTutorials.Properties.Resources.resources
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\UIKitTutorials.csproj.GenerateResource.cache
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\UIKitTutorials.csproj.CoreCompileInputs.cache
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\UIKitTutorials.exe
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\UIKitTutorials.pdb
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\App.baml
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\Assets\Icons\Icons.baml
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\Themes\LightTheme.baml
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\Pages\HomePage.g.cs
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\Pages\HomePage.baml
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\Pages\NotesPage.g.cs
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\Pages\PaymentPage.g.cs
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\Pages\SoundsPage.g.cs
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\Pages\NotesPage.baml
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\Pages\PaymentPage.baml
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\Pages\SoundsPage.baml
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\Styles\MainStyle.baml
+C:\Users\home1\Desktop\UIKitTutorials-main\bin\Debug\UIKitTutorials.exe.config
+C:\Users\home1\Desktop\UIKitTutorials-main\bin\Debug\UIKitTutorials.exe
+C:\Users\home1\Desktop\UIKitTutorials-main\bin\Debug\UIKitTutorials.pdb
+C:\Users\home1\Desktop\UIKitTutorials-main\obj\Debug\UIKitTutorials.csproj.AssemblyReference.cache
+C:\Users\home1\Desktop\UIKitTutorials-main\obj\Debug\MainWindow.g.cs
+C:\Users\home1\Desktop\UIKitTutorials-main\obj\Debug\Pages\HomePage.g.cs
+C:\Users\home1\Desktop\UIKitTutorials-main\obj\Debug\Pages\NotesPage.g.cs
+C:\Users\home1\Desktop\UIKitTutorials-main\obj\Debug\Pages\PaymentPage.g.cs
+C:\Users\home1\Desktop\UIKitTutorials-main\obj\Debug\Pages\SoundsPage.g.cs
+C:\Users\home1\Desktop\UIKitTutorials-main\obj\Debug\App.g.cs
+C:\Users\home1\Desktop\UIKitTutorials-main\obj\Debug\UIKitTutorials_MarkupCompile.cache
+C:\Users\home1\Desktop\UIKitTutorials-main\obj\Debug\UIKitTutorials_MarkupCompile.lref
+C:\Users\home1\Desktop\UIKitTutorials-main\obj\Debug\App.baml
+C:\Users\home1\Desktop\UIKitTutorials-main\obj\Debug\Assets\Icons\Icons.baml
+C:\Users\home1\Desktop\UIKitTutorials-main\obj\Debug\MainWindow.baml
+C:\Users\home1\Desktop\UIKitTutorials-main\obj\Debug\Pages\HomePage.baml
+C:\Users\home1\Desktop\UIKitTutorials-main\obj\Debug\Pages\NotesPage.baml
+C:\Users\home1\Desktop\UIKitTutorials-main\obj\Debug\Pages\PaymentPage.baml
+C:\Users\home1\Desktop\UIKitTutorials-main\obj\Debug\Pages\SoundsPage.baml
+C:\Users\home1\Desktop\UIKitTutorials-main\obj\Debug\Styles\MainStyle.baml
+C:\Users\home1\Desktop\UIKitTutorials-main\obj\Debug\Themes\LightTheme.baml
+C:\Users\home1\Desktop\UIKitTutorials-main\obj\Debug\UIKitTutorials.g.resources
+C:\Users\home1\Desktop\UIKitTutorials-main\obj\Debug\UIKitTutorials.Properties.Resources.resources
+C:\Users\home1\Desktop\UIKitTutorials-main\obj\Debug\UIKitTutorials.csproj.GenerateResource.cache
+C:\Users\home1\Desktop\UIKitTutorials-main\obj\Debug\UIKitTutorials.csproj.CoreCompileInputs.cache
+C:\Users\home1\Desktop\UIKitTutorials-main\obj\Debug\UIKitTutorials.exe
+C:\Users\home1\Desktop\UIKitTutorials-main\obj\Debug\UIKitTutorials.pdb
+C:\Users\home1\Desktop\Diplom Project\InterFaceTutorial\bin\Debug\UIKitTutorials.exe.config
+C:\Users\home1\Desktop\Diplom Project\InterFaceTutorial\bin\Debug\UIKitTutorials.exe
+C:\Users\home1\Desktop\Diplom Project\InterFaceTutorial\bin\Debug\UIKitTutorials.pdb
+C:\Users\home1\Desktop\Diplom Project\InterFaceTutorial\obj\Debug\UIKitTutorials.csproj.AssemblyReference.cache
+C:\Users\home1\Desktop\Diplom Project\InterFaceTutorial\obj\Debug\MainWindow.g.cs
+C:\Users\home1\Desktop\Diplom Project\InterFaceTutorial\obj\Debug\Pages\HomePage.g.cs
+C:\Users\home1\Desktop\Diplom Project\InterFaceTutorial\obj\Debug\Pages\NotesPage.g.cs
+C:\Users\home1\Desktop\Diplom Project\InterFaceTutorial\obj\Debug\Pages\PaymentPage.g.cs
+C:\Users\home1\Desktop\Diplom Project\InterFaceTutorial\obj\Debug\Pages\SoundsPage.g.cs
+C:\Users\home1\Desktop\Diplom Project\InterFaceTutorial\obj\Debug\App.g.cs
+C:\Users\home1\Desktop\Diplom Project\InterFaceTutorial\obj\Debug\UIKitTutorials_MarkupCompile.cache
+C:\Users\home1\Desktop\Diplom Project\InterFaceTutorial\obj\Debug\UIKitTutorials_MarkupCompile.lref
+C:\Users\home1\Desktop\Diplom Project\InterFaceTutorial\obj\Debug\App.baml
+C:\Users\home1\Desktop\Diplom Project\InterFaceTutorial\obj\Debug\Assets\Icons\Icons.baml
+C:\Users\home1\Desktop\Diplom Project\InterFaceTutorial\obj\Debug\MainWindow.baml
+C:\Users\home1\Desktop\Diplom Project\InterFaceTutorial\obj\Debug\Pages\HomePage.baml
+C:\Users\home1\Desktop\Diplom Project\InterFaceTutorial\obj\Debug\Pages\NotesPage.baml
+C:\Users\home1\Desktop\Diplom Project\InterFaceTutorial\obj\Debug\Pages\PaymentPage.baml
+C:\Users\home1\Desktop\Diplom Project\InterFaceTutorial\obj\Debug\Pages\SoundsPage.baml
+C:\Users\home1\Desktop\Diplom Project\InterFaceTutorial\obj\Debug\Styles\MainStyle.baml
+C:\Users\home1\Desktop\Diplom Project\InterFaceTutorial\obj\Debug\Themes\LightTheme.baml
+C:\Users\home1\Desktop\Diplom Project\InterFaceTutorial\obj\Debug\UIKitTutorials.g.resources
+C:\Users\home1\Desktop\Diplom Project\InterFaceTutorial\obj\Debug\UIKitTutorials.Properties.Resources.resources
+C:\Users\home1\Desktop\Diplom Project\InterFaceTutorial\obj\Debug\UIKitTutorials.csproj.GenerateResource.cache
+C:\Users\home1\Desktop\Diplom Project\InterFaceTutorial\obj\Debug\UIKitTutorials.csproj.CoreCompileInputs.cache
+C:\Users\home1\Desktop\Diplom Project\InterFaceTutorial\obj\Debug\UIKitTutorials.exe
+C:\Users\home1\Desktop\Diplom Project\InterFaceTutorial\obj\Debug\UIKitTutorials.pdb
+C:\Users\home1\Desktop\InterFaceTutorial\bin\Debug\UIKitTutorials.exe.config
+C:\Users\home1\Desktop\InterFaceTutorial\bin\Debug\UIKitTutorials.exe
+C:\Users\home1\Desktop\InterFaceTutorial\bin\Debug\UIKitTutorials.pdb
+C:\Users\home1\Desktop\InterFaceTutorial\obj\Debug\UIKitTutorials.csproj.AssemblyReference.cache
+C:\Users\home1\Desktop\InterFaceTutorial\obj\Debug\MainWindow.g.cs
+C:\Users\home1\Desktop\InterFaceTutorial\obj\Debug\Pages\HomePage.g.cs
+C:\Users\home1\Desktop\InterFaceTutorial\obj\Debug\Pages\NotesPage.g.cs
+C:\Users\home1\Desktop\InterFaceTutorial\obj\Debug\Pages\PaymentPage.g.cs
+C:\Users\home1\Desktop\InterFaceTutorial\obj\Debug\Pages\SoundsPage.g.cs
+C:\Users\home1\Desktop\InterFaceTutorial\obj\Debug\App.g.cs
+C:\Users\home1\Desktop\InterFaceTutorial\obj\Debug\UIKitTutorials_MarkupCompile.cache
+C:\Users\home1\Desktop\InterFaceTutorial\obj\Debug\UIKitTutorials_MarkupCompile.lref
+C:\Users\home1\Desktop\InterFaceTutorial\obj\Debug\App.baml
+C:\Users\home1\Desktop\InterFaceTutorial\obj\Debug\Assets\Icons\Icons.baml
+C:\Users\home1\Desktop\InterFaceTutorial\obj\Debug\MainWindow.baml
+C:\Users\home1\Desktop\InterFaceTutorial\obj\Debug\Pages\HomePage.baml
+C:\Users\home1\Desktop\InterFaceTutorial\obj\Debug\Pages\NotesPage.baml
+C:\Users\home1\Desktop\InterFaceTutorial\obj\Debug\Pages\PaymentPage.baml
+C:\Users\home1\Desktop\InterFaceTutorial\obj\Debug\Pages\SoundsPage.baml
+C:\Users\home1\Desktop\InterFaceTutorial\obj\Debug\Styles\MainStyle.baml
+C:\Users\home1\Desktop\InterFaceTutorial\obj\Debug\Themes\LightTheme.baml
+C:\Users\home1\Desktop\InterFaceTutorial\obj\Debug\UIKitTutorials.g.resources
+C:\Users\home1\Desktop\InterFaceTutorial\obj\Debug\UIKitTutorials.Properties.Resources.resources
+C:\Users\home1\Desktop\InterFaceTutorial\obj\Debug\UIKitTutorials.csproj.GenerateResource.cache
+C:\Users\home1\Desktop\InterFaceTutorial\obj\Debug\UIKitTutorials.csproj.CoreCompileInputs.cache
+C:\Users\home1\Desktop\InterFaceTutorial\obj\Debug\UIKitTutorials.exe
+C:\Users\home1\Desktop\InterFaceTutorial\obj\Debug\UIKitTutorials.pdb
+C:\Users\home1\Desktop\InterFace\obj\Debug\UIKitTutorials.csproj.AssemblyReference.cache
+C:\Users\home1\Desktop\InterFace\obj\Debug\MainWindow.g.cs
+C:\Users\home1\Desktop\InterFace\obj\Debug\Pages\HomePage.g.cs
+C:\Users\home1\Desktop\InterFace\obj\Debug\Pages\NotesPage.g.cs
+C:\Users\home1\Desktop\InterFace\obj\Debug\App.g.cs
+C:\Users\home1\Desktop\InterFace\obj\Debug\UIKitTutorials_MarkupCompile.cache
+C:\Users\home1\Desktop\InterFace\obj\Debug\UIKitTutorials_MarkupCompile.lref
+C:\Users\home1\Desktop\InterFace\obj\Debug\UIKitTutorials.exe
+C:\Users\home1\Desktop\InterFace\obj\Debug\UIKitTutorials.pdb
+C:\Users\home1\Desktop\InterFace\bin\Debug\UIKitTutorials.exe.config
+C:\Users\home1\Desktop\InterFace\bin\Debug\UIKitTutorials.exe
+C:\Users\home1\Desktop\InterFace\bin\Debug\UIKitTutorials.pdb
+C:\Users\home1\Desktop\InterFace\obj\Debug\App.baml
+C:\Users\home1\Desktop\InterFace\obj\Debug\Assets\Icons\Icons.baml
+C:\Users\home1\Desktop\InterFace\obj\Debug\MainWindow.baml
+C:\Users\home1\Desktop\InterFace\obj\Debug\Pages\HomePage.baml
+C:\Users\home1\Desktop\InterFace\obj\Debug\Pages\NotesPage.baml
+C:\Users\home1\Desktop\InterFace\obj\Debug\Styles\MainStyle.baml
+C:\Users\home1\Desktop\InterFace\obj\Debug\Themes\LightTheme.baml
+C:\Users\home1\Desktop\InterFace\obj\Debug\UIKitTutorials.g.resources
+C:\Users\home1\Desktop\InterFace\obj\Debug\UIKitTutorials.Properties.Resources.resources
+C:\Users\home1\Desktop\InterFace\obj\Debug\UIKitTutorials.csproj.GenerateResource.cache
+C:\Users\home1\Desktop\InterFace\obj\Debug\UIKitTutorials.csproj.CoreCompileInputs.cache
+C:\Users\home1\Desktop\Diplom Project\MyTaskmanagerWorked\bin\Debug\UIKitTutorials.exe.config
+C:\Users\home1\Desktop\Diplom Project\MyTaskmanagerWorked\bin\Debug\UIKitTutorials.exe
+C:\Users\home1\Desktop\Diplom Project\MyTaskmanagerWorked\bin\Debug\UIKitTutorials.pdb
+C:\Users\home1\Desktop\Diplom Project\MyTaskmanagerWorked\obj\Debug\UIKitTutorials.csproj.AssemblyReference.cache
+C:\Users\home1\Desktop\Diplom Project\MyTaskmanagerWorked\obj\Debug\UIKitTutorials.csproj.SuggestedBindingRedirects.cache
+C:\Users\home1\Desktop\Diplom Project\MyTaskmanagerWorked\obj\Debug\MainWindow.g.cs
+C:\Users\home1\Desktop\Diplom Project\MyTaskmanagerWorked\obj\Debug\Pages\HomePage.g.cs
+C:\Users\home1\Desktop\Diplom Project\MyTaskmanagerWorked\obj\Debug\Pages\NotesPage.g.cs
+C:\Users\home1\Desktop\Diplom Project\MyTaskmanagerWorked\obj\Debug\App.g.cs
+C:\Users\home1\Desktop\Diplom Project\MyTaskmanagerWorked\obj\Debug\UIKitTutorials_MarkupCompile.cache
+C:\Users\home1\Desktop\Diplom Project\MyTaskmanagerWorked\obj\Debug\UIKitTutorials_MarkupCompile.lref
+C:\Users\home1\Desktop\Diplom Project\MyTaskmanagerWorked\obj\Debug\App.baml
+C:\Users\home1\Desktop\Diplom Project\MyTaskmanagerWorked\obj\Debug\Assets\Icons\Icons.baml
+C:\Users\home1\Desktop\Diplom Project\MyTaskmanagerWorked\obj\Debug\MainWindow.baml
+C:\Users\home1\Desktop\Diplom Project\MyTaskmanagerWorked\obj\Debug\Pages\HomePage.baml
+C:\Users\home1\Desktop\Diplom Project\MyTaskmanagerWorked\obj\Debug\Pages\NotesPage.baml
+C:\Users\home1\Desktop\Diplom Project\MyTaskmanagerWorked\obj\Debug\Styles\MainStyle.baml
+C:\Users\home1\Desktop\Diplom Project\MyTaskmanagerWorked\obj\Debug\Themes\LightTheme.baml
+C:\Users\home1\Desktop\Diplom Project\MyTaskmanagerWorked\obj\Debug\UIKitTutorials.g.resources
+C:\Users\home1\Desktop\Diplom Project\MyTaskmanagerWorked\obj\Debug\UIKitTutorials.Properties.Resources.resources
+C:\Users\home1\Desktop\Diplom Project\MyTaskmanagerWorked\obj\Debug\UIKitTutorials.csproj.GenerateResource.cache
+C:\Users\home1\Desktop\Diplom Project\MyTaskmanagerWorked\obj\Debug\UIKitTutorials.csproj.CoreCompileInputs.cache
+C:\Users\home1\Desktop\Diplom Project\MyTaskmanagerWorked\obj\Debug\UIKitTutorials.exe
+C:\Users\home1\Desktop\Diplom Project\MyTaskmanagerWorked\obj\Debug\UIKitTutorials.pdb
+C:\Users\home1\Desktop\Diplom Project\MyTaskmanagerWorked\obj\Debug\Pages\DiscriptionPage.g.cs
+C:\Users\home1\Desktop\Diplom Project\MyTaskmanagerWorked\obj\Debug\Pages\DiscriptionPage.baml
